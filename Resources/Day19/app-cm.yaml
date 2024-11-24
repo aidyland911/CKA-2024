@@ -1,0 +1,13 @@
+apiVersion: v1
+
+data:
+
+  firstname: amr
+
+  lastname: alaidy
+
+kind: ConfigMap
+
+metadata:
+
+  name: app-cm
